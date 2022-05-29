@@ -11,7 +11,7 @@
   ],
   "success_url": "https://t.me/hackelite01",
   "website": "https://t.me/hackelitebotlist",
-  "repository": "https://github.com/hackelite01/VideoCompressorBot",
+  "repository": "https://github.com/vineet664/VideoCompressorBot",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable VARs when in ENV mode",
