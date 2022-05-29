@@ -1,5 +1,5 @@
 # VideoCompress
-A Telegram Video Compressor Bot By [Mayank Rajput](https://t.me/hackelite01). **This bot works for all!** No need to define each user IDs to use bot. Also works in Group.
+A Telegram Video Compressor Bot By [vineet jakhar](https://t.me/hackelite01). **This bot works for all!** No need to define each user IDs to use bot. Also works in Group.
 
 ### Special Features:
 - Bot's Live Status on Channel
@@ -13,7 +13,7 @@ A Telegram Video Compressor Bot By [Mayank Rajput](https://t.me/hackelite01). **
 
 
 ## Easy Deploy:
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/hackelite01/VideoCompressorBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/vineet664/VideoCompressorBot)
 
 ### Support Group:
 <a href="https://t.me/hackelite01"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
@@ -57,7 +57,7 @@ exec - EXEC 🙄
 
 ## Follow on:
 <p align="left">
-<a href="https://github.com/hackelite01"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
+<a href="https://github.com/vineet664"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
 </p>
 
 
